@@ -12,9 +12,8 @@ import seaborn as sns # Draw hearmap
 # Load data
 df = pd.read_csv('data/review.csv')
 
-# Look at first 5 rows
+# Look at first 5 rows 
 print(df.head)
-
 
 # Drop Null values
 df_cleaned = df.dropna()
