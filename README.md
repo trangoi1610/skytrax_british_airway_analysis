@@ -11,7 +11,7 @@
 - Top Insights:
    + Weak overall sentiment: Average rating of 2.6/5 and a 35.13% recommendation rate indicate areas for improvement.
    + In Economy, Food & Beverages and Cabin Staff Service are the strongest satisfaction drivers.
-   + In Non Economy, Seat Comfort and Food & Beverages are critical; deficiencies here cause sharp dissatisfaction.
+   + In Non-Economy, Seat Comfort and Food & Beverages are key factors; issues in these areas lead to significant dissatisfaction.
      
 
      
