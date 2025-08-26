@@ -44,12 +44,11 @@
 - Ensure verified vs unverified review balance to avoid bias in findings.
   
 2.6. Visualization
-
+- Access to dashboard: [British Airways Review Dashboard](https://github.com/trangoi1610/skytrax_british_airway_analysis/blob/main/reports/british_airway_review_dashboard.pdf)
 - Use Mode Studio to create interactive dashboards with time-series analysis and class-based comparisons (economy vs premium).
 - Visualize correlations using heatmaps (Seaborn) to better understand the relationships between key service factors.
 - Add filters for year, class, traveller type, and route to allow dynamic data exploration.
-
-
+  
 **3. Insights**
 
 3.1. Economy Class
@@ -63,6 +62,8 @@
 - Seat Comfort and Food & Beverages are the most critical factors. Premium passengers expect excellent comfort and dining, and any shortfalls in these areas lead to significant dissatisfaction.
 - Comfort Issues: Even small comfort issues, such as inadequate seat space, cause frustration among premium passengers.
 - Relationship Insights: Premium cabin passengers who rate food quality poorly also tend to rate the overall experience lower, even when other factors are high.
+- 
+<img width="1552" height="439" alt="image" src="https://github.com/user-attachments/assets/157e7eea-3d52-4342-938a-a52c4e69828e" />
 
 
 **4. Recommendations**
