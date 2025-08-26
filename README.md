@@ -56,14 +56,20 @@
 - Food & Beverages and Cabin Staff Service are the strongest drivers of satisfaction.
 - Seat Comfort and Ground Service are secondary but important; improving seat comfort, especially on longer flights, can significantly impact satisfaction.
 - Relationship Insights: Positive service correlates with higher food quality ratings. Seat comfort and staff service work together to enhance the long-haul experience.
+  
+<p align="center">
+  <img width="387" height="414" alt="image" src="https://github.com/user-attachments/assets/38153b72-365d-4d22-ab93-55b7debf39a4" />
+</p>
 
 3.2. Non-Economy Classes
 
 - Seat Comfort and Food & Beverages are the most critical factors. Premium passengers expect excellent comfort and dining, and any shortfalls in these areas lead to significant dissatisfaction.
 - Comfort Issues: Even small comfort issues, such as inadequate seat space, cause frustration among premium passengers.
 - Relationship Insights: Premium cabin passengers who rate food quality poorly also tend to rate the overall experience lower, even when other factors are high.
-- 
-<img width="1552" height="439" alt="image" src="https://github.com/user-attachments/assets/157e7eea-3d52-4342-938a-a52c4e69828e" />
+<p align="center">
+   <img width="387" height="414" alt="image" src="https://github.com/user-attachments/assets/f24814ba-98d1-49fb-8cc1-7b2fb843222c" />
+</p>
+
 
 
 **4. Recommendations**
