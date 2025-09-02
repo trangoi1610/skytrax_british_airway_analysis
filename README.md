@@ -1,7 +1,9 @@
 # Skytrax British Airway Analysis
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a3a0d842-0990-4654-837e-bdb603d6e7a0" />
 
-**1. Overview**
+Analyzed 3,000 British Airways reviews (2010–2023) using SQL, Python, and Mode Studio to uncover satisfaction drivers - Economy passengers value food & staff service, while Premium travelers prioritize seat comfort & food - turning insights into targeted improvement strategies.
+Access to dashboard: [British Airways Review Dashboard](https://github.com/trangoi1610/skytrax_british_airway_analysis/blob/main/reports/british_airway_review_dashboard.pdf)
+## 1. Overview
 - Scope: 3,000 British Airways reviews from 2010 to 2023, sourced from AirlineQuality.com, covering multiple airlines.
 - Goal: Identify key drivers of customer satisfaction and convert them into targeted improvement actions.
 - Method:
@@ -15,7 +17,7 @@
      
 
      
-**2. Data Processing and Analysis Workflow**
+## **2. Data Processing and Analysis Workflow**
    
 2.1. Data
 
@@ -44,12 +46,11 @@
 - Ensure verified vs unverified review balance to avoid bias in findings.
   
 2.6. Visualization
-- Access to dashboard: [British Airways Review Dashboard](https://github.com/trangoi1610/skytrax_british_airway_analysis/blob/main/reports/british_airway_review_dashboard.pdf)
 - Use Mode Studio to create interactive dashboards with time-series analysis and class-based comparisons (economy vs premium).
 - Visualize correlations using heatmaps (Seaborn) to better understand the relationships between key service factors.
 - Add filters for year, class, traveller type, and route to allow dynamic data exploration.
   
-**3. Insights**
+## **3. Insights**
 
 3.1. Economy Class
 
@@ -72,7 +73,7 @@
 
 
 
-**4. Recommendations**
+## **4. Recommendations**
 
 4.1. Economy Class
 
@@ -88,7 +89,7 @@
 
 
 
-**5. Key Learnings**
+## **5. Key Learnings**
 
 5.1. Technical Skills
 
@@ -112,7 +113,7 @@
 - Turning metrics into operational levers: Key findings were translated into actionable strategies for improvement, such as enhancing menu variety, improving staff training for better service quality, and focusing on seat comfort for long-haul flights.
 
 
-**6. Limitations**
+## **6. Limitations**
    
 - Single-airline scope: no competitor benchmark yet.
 - Unobserved variables: fare paid, delays, aircraft age/config, load factor.
@@ -120,7 +121,7 @@
 - Verified vs unverified weighting sensitivity not fully explored.
 
 
-**7. Next Steps**
+## **7. Next Steps**
    
 - Benchmarking: Compare British Airways with airlines like Lufthansa, Emirates across routes and classes.
 - Text Analysis: Conduct text analysis to identify themes related to key factors.
