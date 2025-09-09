@@ -2,6 +2,7 @@
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/a3a0d842-0990-4654-837e-bdb603d6e7a0" />
 
 Analyzed 3,000 British Airways reviews (2010–2023) using SQL, Python, and Mode Studio to uncover satisfaction drivers - Economy passengers value food & staff service, while Premium travelers prioritize seat comfort & food - turning insights into targeted improvement strategies.
+
 Access to dashboard: [British Airways Review Dashboard](https://github.com/trangoi1610/skytrax_british_airway_analysis/blob/main/reports/british_airway_review_dashboard.pdf)
 ## 1. Overview
 - Scope: 3,000 British Airways reviews from 2010 to 2023, sourced from AirlineQuality.com, covering multiple airlines.
